@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd1d121-9de7-408e-8934-b3cfadfeb563" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/layouts/partials/navigation.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +38,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="901" />
-    <option name="y" value="271" />
+    <option name="x" value="159" />
+    <option name="y" value="126" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
