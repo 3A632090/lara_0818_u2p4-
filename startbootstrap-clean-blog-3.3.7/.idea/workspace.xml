@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd1d121-9de7-408e-8934-b3cfadfeb563" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_0818_u2p4/resources/views/about.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +38,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="306" />
-    <option name="y" value="113" />
+    <option name="x" value="351" />
+    <option name="y" value="357" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -99,7 +99,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
