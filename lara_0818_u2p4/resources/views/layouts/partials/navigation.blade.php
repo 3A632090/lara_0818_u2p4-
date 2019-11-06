@@ -13,16 +13,16 @@ Menu <i class="fa fa-bars"></i>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="{{route('posts.index')}}">Home</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="{{route('posts.index')}}">About</a>
                     </li>
                     <li>
-                        <a href="post.html">Sample Post</a>
+                        <a href="{{route('posts.index')}}">Sample Post</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="{{route('posts.index')}}">Contact</a>
                     </li>
                 </ul>
             </div>
